@@ -1,5 +1,16 @@
 # AutoEQ MCP Server
 
+[![PyPI](https://img.shields.io/pypi/v/autoeq-mcp)](https://pypi.org/project/autoeq-mcp/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://python.org)
+[![Claude Desktop](https://img.shields.io/badge/Claude-Desktop-orange)](https://claude.ai/download)
+[![Claude Code](https://img.shields.io/badge/Claude-Code-orange)](https://docs.anthropic.com/en/docs/claude-code)
+[![claude.ai](https://img.shields.io/badge/claude.ai-MCP-orange)](https://claude.ai)
+
+```bash
+pip install autoeq-mcp
+```
+
 An MCP (Model Context Protocol) server that gives AI assistants access to the [AutoEQ](https://github.com/jaakkopasanen/AutoEq) headphone equalization database — **8,800+ headphones and IEMs** with parametric EQ settings, sound signature analysis, and Harman preference scores.
 
 [한국어 README](README.ko.md)
