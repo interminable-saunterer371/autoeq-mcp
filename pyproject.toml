@@ -7,7 +7,7 @@ name = "autoeq-mcp"
 version = "0.1.0"
 description = "MCP server for AutoEQ headphone equalization database — search, compare, and get EQ settings for 8800+ headphones"
 readme = "README.md"
-license = "MIT"
+license = {text = "MIT"}
 requires-python = ">=3.10"
 authors = [{ name = "verIdyia" }]
 keywords = ["mcp", "autoeq", "headphone", "equalizer", "eq", "audio", "harman"]
