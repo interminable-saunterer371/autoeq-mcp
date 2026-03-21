@@ -16,6 +16,14 @@ AI 어시스턴트에게 이렇게 물어보세요:
 
 서버가 8개 주파수 대역별로 측정치를 자동 분석하고, 각 헤드폰의 음향 시그니처(Neutral, Warm, Bright, Dark, V-shaped 등)를 분류합니다.
 
+## 데모
+
+### 헤드폰 비교 + 보컬 적합성 분석
+![비교 데모 — HD650 vs DT 990 Pro 대역별 차트와 보컬 추천](assets/demo-comparison.png)
+
+### 음향 시그니처 기반 유사 IEM 검색
+![유사 검색 데모 — 대역별 분석으로 비슷한 튜닝의 IEM 찾기](assets/demo-similar-search.png)
+
 ## 도구
 
 | 도구 | 설명 |

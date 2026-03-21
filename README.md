@@ -15,6 +15,14 @@ Ask your AI assistant things like:
 
 The server automatically analyzes frequency response measurements across 8 bands and classifies each headphone's sound signature (Neutral, Warm, Bright, Dark, V-shaped, etc.).
 
+## Demo
+
+### Headphone comparison with vocal suitability analysis
+![Comparison demo — HD650 vs DT 990 Pro with per-band chart and vocal recommendation](assets/demo-comparison.png)
+
+### Finding similar IEMs by sound signature
+![Similar search demo — finding IEMs with similar tuning using per-band analysis](assets/demo-similar-search.png)
+
 ## Tools
 
 | Tool | Description |
