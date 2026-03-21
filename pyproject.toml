@@ -1,0 +1,32 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "autoeq-mcp"
+version = "0.1.0"
+description = "MCP server for AutoEQ headphone equalization database — search, compare, and get EQ settings for 8800+ headphones"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.10"
+authors = [{ name = "verIdyia" }]
+keywords = ["mcp", "autoeq", "headphone", "equalizer", "eq", "audio", "harman"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: End Users/Desktop",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Topic :: Multimedia :: Sound/Audio",
+]
+dependencies = [
+    "mcp[cli]>=1.0.0",
+    "pydantic>=2.0.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/verIdyia/autoeq-mcp"
+Repository = "https://github.com/verIdyia/autoeq-mcp"
+Issues = "https://github.com/verIdyia/autoeq-mcp/issues"
+
+[project.scripts]
+autoeq-mcp = "autoeq_mcp:main"
